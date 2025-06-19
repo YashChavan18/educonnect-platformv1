@@ -1,0 +1,28 @@
+.home-container {
+  text-align: center;
+  padding: 80px 20px;
+}
+
+.home-buttons {
+  margin-top: 30px;
+}
+
+button {
+  margin: 0 10px;
+  padding: 12px 24px;
+  font-size: 16px;
+  cursor: pointer;
+}
+.home-container {
+  text-align: center;
+  margin-top: 100px; /* So it doesn’t stick under the navbar */
+}
+
+.home-buttons button {
+  margin: 0 10px;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+.home-buttons button:hover {
+  background-color: #f0f0f0;
+}
