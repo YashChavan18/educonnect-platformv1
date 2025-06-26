@@ -13,7 +13,7 @@ const Footer = () => {
       >
         <Box>
           <Text fontSize="lg" fontWeight="bold" mb={2}>
-            EduConnect
+            Teacherstree
           </Text>
           <Text fontSize="sm">Empowering Learning Connections</Text>
           <Text fontSize="sm">Connecting Tutors & Organizations Seamlessly</Text>
@@ -33,7 +33,7 @@ const Footer = () => {
       </Flex>
 
       <Text textAlign="center" mt={6} fontSize="sm">
-        © {new Date().getFullYear()} EduConnect. All rights reserved.
+        © {new Date().getFullYear()} Teacherstree. All rights reserved.
       </Text>
     </Box>
   );

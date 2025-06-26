@@ -23,13 +23,13 @@ const FAQSection = () => {
             <h2>
               <AccordionButton>
                 <Box flex="1" textAlign="left" fontWeight="medium">
-                  What is EduConnect?
+                  What is Teacherstree?
                 </Box>
                 <AccordionIcon />
               </AccordionButton>
             </h2>
             <AccordionPanel pb={4}>
-              EduConnect is a platform that connects tutors with organizations and learners.
+              Teacherstree is a platform that connects tutors with organizations and learners.
             </AccordionPanel>
           </AccordionItem>
 
@@ -37,7 +37,7 @@ const FAQSection = () => {
             <h2>
               <AccordionButton>
                 <Box flex="1" textAlign="left" fontWeight="medium">
-                  Is EduConnect free to use?
+                  Is Teacherstree free to use?
                 </Box>
                 <AccordionIcon />
               </AccordionButton>

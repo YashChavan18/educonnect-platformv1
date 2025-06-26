@@ -9,7 +9,7 @@ const Navbar = () => {
       <Flex align="center">
         {/* Logo Section */}
         <Text fontSize="2xl" fontWeight="bold" color="white">
-          <RouterLink to="/">EduConnect</RouterLink>
+          <RouterLink to="/">Teacherstree</RouterLink>
         </Text>
 
         <Spacer />

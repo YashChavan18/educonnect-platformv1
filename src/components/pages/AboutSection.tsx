@@ -7,11 +7,11 @@ const AboutSection = () => {
     <Box bg="white" py={20} px={6}>
       <Box maxW="6xl" mx="auto" textAlign="center">
         <Heading as="h2" size="xl" mb={6} color="blue.800">
-          Why EduConnect?
+          Why Teacherstree?
         </Heading>
         <Text fontSize="lg" mb={10} color="gray.600">
-          EduConnect bridges the gap between skilled tutors and organizations looking for educational expertise.
-          Whether you're an educator or an institution, EduConnect helps you connect, collaborate, and grow.
+          Teacherstree bridges the gap between skilled tutors and organizations looking for educational expertise.
+          Whether you're an educator or an institution, Teacherstree helps you connect, collaborate, and grow.
         </Text>
 
         <SimpleGrid columns={[1, 2]} spacing={10} mt={10}>
